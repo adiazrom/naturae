@@ -416,9 +416,14 @@ tema-del-mes.html
     justify-content: center;
 }
 
-.tema-del-mes .title, 
+.tema-del-mes .title {
+    font-size: 2.5rem;
+    text-align: center;
+}
+
 .animales h1 {
     text-align: center;
+    font-size: 2rem;
 }
 
 .tema-del-mes .title {
@@ -431,7 +436,7 @@ tema-del-mes.html
 
 .tema-del-mes .title,
 .tema-del-mes span.date {
-    font-size: 2.2rem;
+    font-size: 2.5rem;
     display: inline-block;
 }
 
