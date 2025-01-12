@@ -984,7 +984,7 @@ Media query for medium devices
     }
 
     .about p {
-        font-size: 1.1rem;
+        font-size: 1.12rem;
     }
  
     .hero-credit figcaption cite {
@@ -1020,16 +1020,16 @@ Media query for medium devices
 
     .grid p, 
     .grid .historias p {
-        font-size: 1rem;
+        font-size: 1.12rem;
     }
 
     .grid p {
          margin-bottom: 2.5rem;
     }
     
-    .grid .historias p {
+    /*.grid .historias p {
          margin-bottom: 0.8rem;
-    }
+    }*/
  
      div a.more {
          margin-top: auto;
