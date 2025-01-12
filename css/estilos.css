@@ -954,7 +954,6 @@ Media query for medium devices
     }
 
     .hero img.responsive-image {
-        height: 44vh;
         object-fit: cover;
         width: 100%;
     }
