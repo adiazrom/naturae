@@ -659,10 +659,14 @@ post.html
     font-size: 1.4rem;
 }
 
+.post-content.container-limited {
+    margin: 0;
+}
+
 .post .post-content p {
     font-size: 1.3rem;
     padding: 0 1rem;
-    margin-top: 1rem;
+    margin-top: 3rem;
 }
 
 .post .post-section {
