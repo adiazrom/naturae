@@ -1348,6 +1348,10 @@ Media query for big devices
 
 
 /*------Tema del mes------*/
+    main.mes.container-extended {
+        padding: 0 4rem;
+    }
+    
     .tema-del-mes {
         display: flex;
         flex-direction: row;
