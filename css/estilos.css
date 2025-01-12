@@ -1434,8 +1434,7 @@ Media query for big devices
     }
 
     .column-2 img {
-        width: 100%; /* Ensure the image fits within the column */
-        height: auto;
+        margin: 0 1.5rem;
     }
 
     .column-2 cite {
