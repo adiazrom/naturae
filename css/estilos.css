@@ -441,7 +441,7 @@ tema-del-mes.html
     padding: 0 1rem;
 }
 
-.animales h1 {
+.animales h2 {
     font-size: 1.9rem;
     padding: 1.5rem 0 1.3rem 0;
     text-align: center;
@@ -1102,7 +1102,7 @@ Media query for medium devices
         font-size: 1.8rem;
     }
     
-    .animales h1 {
+    .animales h2 {
         text-align: center;
         font-size: 2rem;
     }
@@ -1407,7 +1407,7 @@ Media query for big devices
         padding: 0 1rem;
     }
 
-    .animales h1 {
+    .animales h2 {
         text-align: center;
         font-size: 2.5rem;
     }
