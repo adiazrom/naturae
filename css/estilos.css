@@ -1423,7 +1423,6 @@ Media query for big devices
     .preview .column-1 {
         grid-column: 1 / 2;
         font-size: 1.05rem;
-
     }
 
     .preview .column-2 {
@@ -1433,6 +1432,10 @@ Media query for big devices
         align-items: center;
     }
 
+    .animales figure {
+        margin-left: 3rem;
+    }
+    
     .column-2 img {
         margin: 0 1.5rem;
     }
