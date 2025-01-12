@@ -1050,7 +1050,9 @@ Media query for medium devices
         font-size: 0.8rem;
         margin: 0.3rem 0;
     }
-
+/**************
+    TEMA DEL MES
+    ****************/
      main.mes {
         padding: 0 1rem;
      }
@@ -1076,6 +1078,13 @@ Media query for medium devices
         padding: 0 1rem;
     }
 
+    .column-1::before {
+    content: "#" counter(counter);
+    font-size: 4rem;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    }
     .animales h1 {
         text-align: center;
         font-size: 2rem;
