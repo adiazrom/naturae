@@ -170,6 +170,7 @@ index.html
 
 .index .container-limited {
     padding: 0 1rem;
+    margin: 0;
 }
 
 .hero, .hero-text {
