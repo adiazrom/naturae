@@ -1376,8 +1376,8 @@ Media query for big devices
 
     .animales-nav {
         grid-column: 1;
-        font-size: 1rem;
-        padding-right: 0 15rem 0 3rem;
+        font-size: 1.05rem;
+        padding-right: 0 14rem 0 3rem;
     }
 
     .animales-nav ul {
@@ -1395,11 +1395,17 @@ Media query for big devices
         display: none;
     }
 
+    div.column-1 p {
+        font-size: 1rem;
+    }
     .conservacion {
         display: grid;
         grid-template-columns: auto auto auto auto;
     }
-
+    
+    .conservacion h2 {
+        font-size: 1.8rem;
+    }
     .conservacion div {
         display: grid;
         align-items: start;
