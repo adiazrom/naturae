@@ -624,6 +624,14 @@ blog.html
     padding-bottom: 3rem;
 }
 
+span.quoted::before {
+  content: "«";
+}
+
+span.quoted::after {
+  content: "»";
+}
+
 /****************************
 post.html
 *****************************/
@@ -1526,6 +1534,14 @@ Media query for big devices
 
     .card-content {
         padding-bottom: 1rem;
+    }
+
+    .card-content h2 {
+        padding-bottom: 1.78rem;
+    }
+
+    .card-content p {
+        font-size: 1.3rem;
     }
 
     .card-content cite {
