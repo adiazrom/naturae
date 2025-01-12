@@ -1546,6 +1546,7 @@ Media query for big devices
 
     .card-content cite {
         margin: 0;
+        font-size: 0.9rem;
     }
 
     .interes-grid {
