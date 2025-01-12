@@ -1136,6 +1136,10 @@ Media query for medium devices
         font-size: 1.8rem;
     }
 
+    .card-content cite {
+        font-size: 0.9rem;
+    }
+
     .posts cite {
         margin-bottom: 2rem;
     }
