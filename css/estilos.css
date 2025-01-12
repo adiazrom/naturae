@@ -1303,7 +1303,7 @@ Media query for big devices
    .about-content {
         display: grid;
         grid-template-columns: 53% 35%;
-        gap: 8rem;
+        gap: 7.2rem;
    }
 
    .about-text {
