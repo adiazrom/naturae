@@ -1497,6 +1497,12 @@ Media query for big devices
     }
 
     /*------Blog------*/
+    .blog .content-limited {
+        padding: 0 1rem;
+        max-width: 0;
+        margin: 0;
+    }
+    
     main.post {
         padding: 0;
         margin: 0;
