@@ -659,7 +659,7 @@ post.html
 }
 
 .post-content.container-limited {
-    margin: 0;
+    margin: 0 auto;
 }
 
 .post .post-content p {
@@ -1528,7 +1528,7 @@ Media query for big devices
     
     main.post {
         padding: 0;
-        margin: 0;
+        margin: 0 auto;
     }
 
     .posts {
@@ -1578,6 +1578,11 @@ Media query for big devices
 
 /*------Post------*/
 
+    .post.container-limited {
+        padding: 0;
+        margin: 0 auto;
+    }
+
     .post h1 {
         font-size: 4.2rem;
     }
@@ -1586,7 +1591,7 @@ Media query for big devices
         font-size: 1.2rem;
     }
 
-    .post .hero img.responsive-image {
+    main.post .hero img.responsive-image {
         height: 20vh;
         max-height: 500px;
         margin: 0;
