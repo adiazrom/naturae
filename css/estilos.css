@@ -1435,6 +1435,11 @@ Media query for big devices
     .animales figure {
         margin-left: 3rem;
     }
+
+    .animales figure img {
+        width: 20vw;
+        height: auto;
+    }
     
     /*.column-2 img {
         margin: 0 1.5rem;
