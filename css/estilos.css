@@ -1354,7 +1354,7 @@ Media query for big devices
         align-items: baseline;
         justify-content: center;
         text-align: center;
-        gap: 2rem;
+        gap: 1rem;
     }
 
     .tema-del-mes h1.title,
@@ -1377,7 +1377,7 @@ Media query for big devices
     .animales-nav {
         grid-column: 1;
         font-size: 1rem;
-        padding-right: 15rem;
+        padding-right: 0 15rem 0 3rem;
     }
 
     .animales-nav ul {
