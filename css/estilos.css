@@ -979,7 +979,7 @@ Media query for medium devices
  
     h2 {
      font-size: 1.3rem;
-     padding: 1rem 0 1rem;
+     /*padding: 1rem 0 1rem;*/
      margin: 0.5rem 0;
     }
  
@@ -1130,6 +1130,10 @@ Media query for medium devices
 
     .cards { 
         flex: 1 1 calc(50% - 2rem);
+    }
+
+    .card-content h2 a {
+        font-size: 1.8rem;
     }
 
     .posts cite {
