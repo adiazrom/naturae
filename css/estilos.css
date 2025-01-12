@@ -1085,6 +1085,11 @@ Media query for medium devices
     margin: 0;
     padding: 0;
     }
+
+    .conservacion h2 {
+        font-size: 1.8rem;
+    }
+    
     .animales h1 {
         text-align: center;
         font-size: 2rem;
@@ -1094,11 +1099,23 @@ Media query for medium devices
         text-align: left;
      }
 
+    .animales p {
+        font-size: 1.12rem;
+    }
+
      .animales-nav {
         font-size: 1.1rem;
         margin-bottom: 3rem;
      }
 
+     .animales cite {
+        font-size: 0.77rem;
+     }
+
+    p .mas-info {
+        font-size: 1rem;
+    }
+    
      /*------Blog------*/
 
     .posts {
