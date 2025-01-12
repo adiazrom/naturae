@@ -1381,7 +1381,7 @@ Media query for big devices
     .animales-nav {
         grid-column: 1;
         font-size: 1.05rem;
-        padding: 0 14rem 0 0;
+        padding: 0 14.5rem 0 0;
     }
 
     .animales-nav ul {
@@ -1437,11 +1437,11 @@ Media query for big devices
     }
 
     .animales figure {
-        margin-left: 3rem;
+        margin-left: 4.5rem;
     }
 
     .animales figure img {
-        width: 20vw;
+        width: 20.5vw;
         height: auto;
     }
     
