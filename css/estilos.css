@@ -915,12 +915,10 @@ div.social ul li a {
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-
 }
 
 div.social ul li a.instagram {
     background-image: url(../img/instagram.svg);
-
 }
 
 div.social ul li a.youtube {
