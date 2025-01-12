@@ -452,7 +452,7 @@ tema-del-mes.html
     line-height: 1.5rem;
     padding: 0;
     margin: 0;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
 }
 
 .animales-nav ul {
@@ -496,7 +496,7 @@ div.column-1 p {
 }
 .column-1::before {
     content: "#" counter(counter);
-    font-size: 2.3rem;
+    font-size: 3rem;
     font-weight: 700;
     margin: 0;
     padding: 0;
@@ -512,7 +512,7 @@ div.column-1 p {
     padding: 0;
     margin: 0;
     padding-bottom: 0.8rem;
-    font-size: 0.95rem;
+    font-size: 1.05rem;
 }
 
 .animales figcaption {
@@ -521,13 +521,17 @@ div.column-1 p {
 
 .animales cite {
     font-style: normal;
-    font-size: 0.7rem;
+    font-size: 0.73rem;
 }
 
 .animales figure img {
     width: 100%;
     height: auto;
     border: 1rem solid var(--light-color);
+}
+
+p .mas-info {
+    font-size: 0.95rem;
 }
 
 /****************************
