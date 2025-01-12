@@ -542,10 +542,10 @@ blog.html
 }
 
 .blog h1 {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 1.2rem;
     text-align: center;
-    font-size: 2rem;
+    font-size: 2.1rem;
 }
 
 .cards, .fast-fashion, .card-image, figure, figcaption, p, cite {
@@ -561,7 +561,7 @@ blog.html
 
 .cards {
     background-color: var(--light-color);
-    margin-bottom: 3rem;
+    margin-bottom: 2.5rem;
 }
 
 .cards p {
@@ -596,7 +596,7 @@ blog.html
 
 .card-content cite,
 .creditos cite {
-    font-size: .85rem;
+    font-size: 0.7rem;
     font-style: normal;
 }
 
@@ -615,6 +615,7 @@ blog.html
     font-size: 1.6rem;
     display: block;
     margin-bottom: 0.5rem;
+    margin-top: 1rem;
 }
 
 .card-content cite {
@@ -1117,7 +1118,10 @@ Media query for medium devices
     }
     
      /*------Blog------*/
-
+    .blog .container-limited {
+        padding: 0 1rem;
+    }
+    
     .posts {
         display: flex;
         flex-wrap:wrap;
